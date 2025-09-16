@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.image {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+}
+
+.main-page {
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+.alfredo {
+
+}
